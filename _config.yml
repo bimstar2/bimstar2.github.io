@@ -6,9 +6,9 @@ baseurl:           "/bimstar2.github.io"
 url:               "https://bimstar2.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  Cointro_Martin
+github_username:   bimstar2
+facebook_username: Cointro_Martin
 
 # Build settings
 markdown:          kramdown
